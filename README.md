@@ -17,7 +17,14 @@ For detailed documentation, see the `docs/` folder.
 
 ---
 
-<div align="center">
-  <p><strong>MIT License</strong> - Made with care.</p>
-  <p><em>Thanks to all GitHub developers who share their wisdom and experience — you made this possible.</em></p>
-</div>
+---
+
+## License
+
+MIT
+
+## Acknowledgements
+
+Made with ❤️ by **Pauuulq87**
+
+*Forked from [tw93/Mole](https://github.com/tw93/Mole)*

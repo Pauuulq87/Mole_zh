@@ -17,7 +17,14 @@
 
 ---
 
-<div align="center">
-  <p><strong>MIT License</strong> - 專為用戶打造。</p>
-  <p><em>謝謝 GitHub 開發者把智慧與經驗分享出來，才有今天的我。</em></p>
-</div>
+---
+
+## 授權
+
+MIT
+
+## 致謝
+
+Made with ❤️ by **Pauuulq87**
+
+*Fork 自 [tw93/Mole](https://github.com/tw93/Mole)*
